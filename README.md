@@ -7,6 +7,6 @@
 2019/12 ~ 2020/10
 
 ## 💻 개발환경
-운영체제: <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white">  
+<img width="991" alt="개발도구" src="https://user-images.githubusercontent.com/60621474/207774684-ef753c52-b5be-41a2-b10c-6f851da42d9c.png">  
 
-개발도구: <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+개발언어: <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
