@@ -7,6 +7,7 @@
 2019/12 ~ 2020/10
 
 ## 💻 개발환경
+개발언어: Java
 <img width="991" alt="개발도구" src="https://user-images.githubusercontent.com/60621474/207774684-ef753c52-b5be-41a2-b10c-6f851da42d9c.png">  
 
-개발언어: Java
+
